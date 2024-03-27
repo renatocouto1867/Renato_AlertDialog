@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Renato_AlertDialog</string>
+    <string name="excluir">Excluir</string>
+
+    <string-array name="linguagem_programacao">
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>PHP</item>
+        <item>C#</item>
+        <item>JavaScript</item>
+    </string-array>
+</resources>
